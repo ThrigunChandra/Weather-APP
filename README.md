@@ -28,6 +28,10 @@ A simple weather web application that provides real-time weather information, in
    cd weather-app
    ```
 3. Open `index.html` in a web browser.
+4. **API Key Setup:**
+   - This application requires a weather API key.
+   - Obtain your API key from the weather API provider.
+   - Update `script.js` with your own API key before running the application.
 
 ## API Usage
 - The application fetches weather data using a third-party weather API.
@@ -38,9 +42,5 @@ A simple weather web application that provides real-time weather information, in
 - Implementing a search history feature.
 - Enhancing the UI with animations.
 
-## License
-This project is open-source and available under the MIT License.
-
 ---
 Feel free to contribute or suggest improvements!
-
